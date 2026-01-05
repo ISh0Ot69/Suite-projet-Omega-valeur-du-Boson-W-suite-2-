@@ -32,7 +32,7 @@ Grâce à ce pivot de 80,433, chaque élément (du Neutron à l'Oganesson) est d
 
 ### Algorithme de calcul 1 par 1 :
 1. **Identification du $\Omega$ de l'élément.**
-2. **Application du facteur de résonance  9,8066.**
+2. **Application du facteur de  résonance  9,8066.**
 3. **Stabilisation par le Boson W à 80,433.**
 
 
