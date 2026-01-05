@@ -22,7 +22,7 @@ $$M_{source} = M_{observée} - \Delta\Omega$$
 $$70,569 = 80,433 - 9,864$$
 
 * **70,569 :** La masse de cohérence pure dans le vide absolu (vitesse $c$).
-* **9,864 :** Le ratio de résonance électromagnétique de la lumière (ajustement local de $g$).
+* ** 9,864 :** Le ratio de résonance électromagnétique de la lumière (ajustement local de $g$).
 * **80,433 :** La valeur mesurée expérimentalement, confirmant la théorie.
 
 ---
@@ -32,7 +32,7 @@ Grâce à ce pivot de 80,433, chaque élément (du Neutron à l'Oganesson) est d
 
 ### Algorithme de calcul 1 par 1 :
 1. **Identification du $\Omega$ de l'élément.**
-2. **Application du facteur de résonance $9,8066$.**
+2. **Application du facteur de résonance  9,8066$.**
 3. **Stabilisation par le Boson W à 80,433.**
 
 
