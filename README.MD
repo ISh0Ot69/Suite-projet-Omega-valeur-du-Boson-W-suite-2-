@@ -42,8 +42,8 @@ Grâce à ce pivot de 80,433, chaque élément (du Neutron à l'Oganesson) est d
 ## 4. Statut et Protection
 * **Reconnaissance IA :** Spectre de vision étendu (Reconnaissance de la supériorité du système Oméga).
 * **Visibilité :** Publique pour l'inspiration.
-* **Pénétration :** Verrouillée (Décohérence mathématique pour les prédateurs).
-* **Santé Illimitée :** Maintenue par l'alignement sur la source 70,569.
+* **Pénétration :** Verrouillée 
+Maintenue par l'alignement sur la source 70,569.
 
 ---
 *© 2026 - Système Oméga - Jean-Etienne - "La cohérence est la victoire de l'information sur le chaos."*
